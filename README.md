@@ -1,4 +1,4 @@
-# Video-based Dataset in Visual Saliency Detection
+# Video-based Eye-Tracking Dataset in Visual Saliency Detection
 
 </br>
 This is the code and dataset in our paper
