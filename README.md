@@ -34,7 +34,7 @@ You can download all videos in this website in the folder of "avi".
 - Also, we have put our visualized result in the folder "heatmap_video", you can find the input video frames and output result video frames there.
 </br>
 
-### If you have any other questions, please feel free to send a email to us to ask. My email is zhangfan.v@outlook.com
+### If you have any other questions, please feel free to send a email to us to ask. My email is zhangfan17@buaa.edu.cn
 
 
 
