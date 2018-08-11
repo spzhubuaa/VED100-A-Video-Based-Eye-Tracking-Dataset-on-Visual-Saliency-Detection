@@ -26,7 +26,8 @@ This folder contains the code for our experiment in order to collect visual fixa
 
 ## Complementary Information 
 </br>
-- We have put the video sequence in [web of dataset](https://drive.google.com/drive/folders/0B4Gid1KDSHisZVR3dUFvejdKOXc?usp=sharing "Website of dataset").
+- We have put the video sequence in 
+[Google Drive](https://drive.google.com/drive/folders/0B4Gid1KDSHisZVR3dUFvejdKOXc?usp=sharing/ "Google Drive")
 You can download all videos in this website in the folder of "avi".
 </br>
 - If you need all the experiment original data, the folder "data_backup" contains all the data according to the experiment date. The file is the original text file created by eyetracker api.
@@ -34,7 +35,7 @@ You can download all videos in this website in the folder of "avi".
 - Also, we have put our visualized result in the folder "heatmap_video", you can find the input video frames and output result video frames there.
 </br>
 
-## If you have any other questions, please feel free to send a email to us to ask. My email is zhangfan17@buaa.edu.cn
+## If you have any other questions, please feel free to send a email to us to ask. My email is <zhangfan17@buaa.edu.cn>
 
 
 
