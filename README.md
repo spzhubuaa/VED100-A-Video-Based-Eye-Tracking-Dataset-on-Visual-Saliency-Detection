@@ -29,7 +29,7 @@ This folder contains the code for our experiment in order to collect visual fixa
 - We have put the video sequence in 
 
 
-[Google Drive](https://drive.google.com/drive/folders/0B4Gid1KDSHisZVR3dUFvejdKOXc?usp=sharing/ "Google Drive")
+  [Google Drive](https://drive.google.com/drive/folders/0B4Gid1KDSHisZVR3dUFvejdKOXc?usp=sharing/ "Google Drive")
 
 
 You can download all videos in this website in the folder of "avi".
