@@ -3,9 +3,8 @@
 ## Authors
 
 - **Shiping Zhu**
-- **Zijian Song**
-
-*Beihang University*
+- **Ziyao Xu**
+- **Fan Zhang**
 
 </br>
 This is the code and dataset in our paper
