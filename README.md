@@ -1,5 +1,12 @@
 # VED100：A Video-Based Eye-Tracking Dataset on Visual Saliency Detection
 
+## Authors
+
+- **Shiping Zhu**
+- **Zijian Song**
+
+*Beihang University*
+
 </br>
 This is the code and dataset in our paper
 </br>
